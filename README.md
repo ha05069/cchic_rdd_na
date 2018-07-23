@@ -2,6 +2,7 @@
 Trial of applied regression discontinuity to treatment with noradrenaline
 
 Background:
+
 For many treatments and interventions in intensive care there is a scarcity of evidence regarding their implementation in practice.  Most of these treatments will not be amenable to study with a randomised controlled trial.  The lack of clear evidence leads to widespread variation in how these treatments are implemented.  Some of these treatments are implemented around arbitrary thresholds for starting or changing treatment.  
 
 E.g. hypotensive patients may be commenced on a vasopressor such as noradrenaline.  There is limited evidence to suggest what is the correct blood pressure to commence this treatment at, or what blood pressure to aim whilst on treatment.  
